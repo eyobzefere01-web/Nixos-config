@@ -75,6 +75,7 @@
 
     # Dev tools
     uv
+    nodejs_26
     curl
     wget
     tree
@@ -97,6 +98,7 @@
     binaryen  
     wabt  
     wasmtime
+    proton-vpn-cli
 
     # Desktop apps
     brave

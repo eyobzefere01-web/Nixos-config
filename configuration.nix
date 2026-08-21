@@ -24,7 +24,7 @@
   virtualisation.docker.enable = true;
 
   # Configure network connections interactively with nmcli or nmtui.
-  networking.hostName = "server";
+  networking.hostName = "dell";
   networking.networkmanager.enable = true;
   
   # Set your time zone.
